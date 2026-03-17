@@ -48,7 +48,7 @@ Check out the [getting started guide](https://automapper.readthedocs.io/en/lates
 
 ### Where can I get it?
 
-First, [install NuGet](http://docs.nuget.org/docs/start-here/installing-nuget). Then, install [AutoMapper](https://www.nuget.org/packages/MagicMapper/) from the package manager console:
+First, [install NuGet](http://docs.nuget.org/docs/start-here/installing-nuget). Then, install [MagicMapper](https://www.nuget.org/packages/MagicMapper/) from the package manager console:
 
 ```
 PM> Install-Package MagicMapper
