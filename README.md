@@ -1,6 +1,6 @@
 ![MagicMapper](https://s3.amazonaws.com/automapper/logo.png)
 
-[![CI](https://github.com/kant2002/fasmapper/workflows/CI/badge.svg)](https://github.com/kant2002/MagicMapper/actions?query=workflow%3ACI)
+[![CI](https://github.com/NET-Sorcery/MagicMapper/workflows/CI/badge.svg)](https://github.com/kant2002/MagicMapper/actions?query=workflow%3ACI)
 [![NuGet](http://img.shields.io/nuget/vpre/MagicMapper.svg?label=NuGet)](https://www.nuget.org/packages/MagicMapper/)
 [![MyGet (dev)](https://img.shields.io/myget/fastmapperdev/vpre/AutoMapper.svg?label=MyGet)](https://myget.org/feed/automapperdev/package/nuget/MagicMapper)
 [![Documentation Status](https://readthedocs.org/projects/automapper/badge/?version=stable)](https://docs.automapper.org/en/stable/?badge=stable)
